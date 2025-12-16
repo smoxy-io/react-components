@@ -1,0 +1,18 @@
+{
+  "name": "@smoxy-io/react-components",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smoxy-io/react-components.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@smoxy-io/js-utils": "^1.0.0",
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1"
+  },
+  "peerDependencies": {
+    "jotai": ">=2",
+    "react": ">=19"
+  }
+}
