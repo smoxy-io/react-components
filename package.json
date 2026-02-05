@@ -14,5 +14,10 @@
   "peerDependencies": {
     "jotai": ">=2",
     "react": ">=19"
+  },
+  "exports": {
+    ".": "./components/index.js",
+    "./components": "./components/index.js",
+    "./providers": "./providers/index.js"
   }
 }
